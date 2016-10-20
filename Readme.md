@@ -1,3 +1,6 @@
+#### Important information
+This project is discontinued.
+
 # HomeManager
 
 There's no place like 127.0.0.1, right ? That's why it's important to keep your stuff done in a really quick and easy way !
