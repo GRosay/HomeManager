@@ -19,7 +19,7 @@ $sStyleTitle = "<b>Home</b>Manager";
 $sSmallTitle = "<b>H</b>M";
 
 
-$aMysqlConfig = array('host' => 'localhost', 'user' => 'root', 'password' => 'root', 'database' => 'homemanager');
+$aMysqlConfig = array('host' => 'localhost', 'user' => 'dbuser', 'password' => 'sec4db', 'database' => 'homemanager');
 
 ### À RECUPERER DEPUIS LA DB PAR LA SUITE
 $sSiteColor = $_SESSION['user_theme'];

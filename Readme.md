@@ -1,11 +1,15 @@
-#### Important information
-This project is discontinued.
-
 # HomeManager
 
 There's no place like 127.0.0.1, right ? That's why it's important to keep your stuff done in a really quick and easy way !
 
-HomeManager is here to help you in all administrative taks and to keep an eye on what's going in your house.
+HomeManager is here to help you in all administrative tasks and to keep an eye on what's going in your house.
+
+## How to install
+As this project use Vagrant, you can easily and quickly start a fully functional environment by using `vagrant up` in your terminal/console.
+
+All tools will be installed by default.
+
+If you want to install the project on your own server or environment, you just have to copy all files and then import database.sql in your database and, finally, adapt your config in `inc/settings.inc.php`.
 
 ## Features
 
