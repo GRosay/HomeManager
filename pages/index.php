@@ -60,13 +60,14 @@
 	<div class="col-md-4">
 		<div class="box">
 			<div class="box-header with-border">
-				<h3 class="box-title"><i class="fa fa-video-camera"></i> Webcam</h3>
+				<h3 class="box-title"><i class="fa fa-video-camera"></i> Webcam - AUCUN SIGNAL</h3>
 				<div class="box-tools pull-right">
                     <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
 				</div>
 			</div>
 			<div class="box-body">
-				<iframe width="100%" height="270px" src="https://www.youtube.com/embed/YH3Nhp0R9t8" frameborder="0" allowfullscreen></iframe>
+				<!--<iframe width="100%" height="270px" src="https://www.youtube.com/embed/YH3Nhp0R9t8" frameborder="0" allowfullscreen></iframe>-->
+				<img style="width:100%;" src="img/maxresdefault.jpg" />
 			</div>
 		</div>
 	</div>

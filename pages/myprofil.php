@@ -54,48 +54,20 @@
                     </tr>
                     <tr>
                         <th>Mot de passe</th>
-                        <td></th>
-                        <td><i class="fa fa-pencil"></i></th>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-
-    </div>
-
-
-    <div class="col-md-4">
-        <div class="box">
-            <div class="box-header with-border">
-                <h3 class="box-title"><i class="fa fa-building-o"></i> Mes villes</h3>
-                <div class="box-tools pull-right">
-                    <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
-                </div>
-            </div>
-            <div class="box-body table-responsive">
-                <table class="table">
-                    <tbody>
-                    <tr>
-                        <th>Ville 1</th>
-                        <td>Yverdon-les-Bains</th>
+                        <td>*********</th>
                         <td><i class="fa fa-pencil"></i></th>
                     </tr>
                     <tr>
-                        <th>Ville 2</th>
+                        <th>Ma ville</th>
                         <td>Carrouge</th>
                         <td><i class="fa fa-pencil"></i></th>
                     </tr>
-                    <tr>
-                        <th>Ville 3</th>
-                        <td>Ecublens</th>
-                        <td><i class="fa fa-pencil"></i></th>
-                    </tr>
                     </tbody>
                 </table>
             </div>
         </div>
 
     </div>
+
 </div>
 

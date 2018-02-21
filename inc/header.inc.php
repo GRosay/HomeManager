@@ -22,8 +22,7 @@ $sContent = '<!DOCTYPE html>
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		';
 foreach ($aCSS as $key => $val) {
-	$sContent .= "<link href='" . $val . "' rel='stylesheet' type='text/css' />
-		";
+	$sContent .= "<link href='" . $val . "' rel='stylesheet' type='text/css' />";
 }
 $sContent .= '
 
@@ -183,7 +182,7 @@ $sContent .= '
 						  <!-- Menu Footer-->
 						  <li class="user-footer">
 							<div class="pull-left">
-							  <a href="index.php?p=myprofil" class="btn btn-default btn-flat">Profile</a>
+							  <a href="index.php?p=myprofil" class="btn btn-default btn-flat">Profil</a>
 							</div>
 							<div class="pull-right">
 							  <a href="logout.php" class="btn btn-default btn-flat">Déconnexion</a>
