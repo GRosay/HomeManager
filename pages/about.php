@@ -15,6 +15,16 @@ $aTimeLine[] = array(
 
 
 $aTimeLine[] = array(
+    'badge' => 'info',
+    'icon' => 'wrench',
+    'title' => 'Reprise du projet',
+    'date' => '21 février 2018',
+    'content' => "	<ul>
+						<li>Two years later...</li>
+						<li>... back in the game :)</li>
+					</ul>");
+
+$aTimeLine[] = array(
 	'badge' => 'success',
 	'icon' => 'sun-o',
 	'title' => 'Météo',
@@ -123,7 +133,7 @@ $aTimeLine[] = array(
 					<tbody>
 						<tr>
 							<td colspan="2" style="text-align:center;">
-								<img style="max-width:30%;" src="https://media.licdn.com/media/p/3/005/0ac/0d9/07ca5c6.jpg" class="img-circle" />
+								<img style="max-width:30%;" src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAIA_wDGAAAAAQAAAAAAAAvUAAAAJDcwN2E2ZGYxLWUyYzktNDQyYS1iN2VjLWI0MjBjMjJiYWZmMQ.jpg" class="img-circle" />
 							</td>
 						</tr>
 						<tr>
@@ -140,11 +150,11 @@ $aTimeLine[] = array(
 						</tr>
 						<tr>
 							<th>Web</th>
-							<td><a href="http://www.gaspard-rosay.ch">Gaspard's Tech Blog</a></th>
+							<td><a href="http://nowhere-tech.io">NoWhere Technologies</a></th>
 						</tr>
 						<tr>
 							<th>Twitter</th>
-							<td><a href="https://twitter.com/RosayGaspard">@RosayGaspard</a></th>
+							<td><a href="https://twitter.com/BananasSplitter">@BananasSplitter</a></th>
 						</tr>
 						<tr>
 							<th>GitHub</th>
@@ -258,6 +268,10 @@ $aTimeLine[] = array(
 							<th>Gravatar</th>
 							<td></th>
 						</tr>
+                        <tr>
+                            <th>Vagrant</th>
+                            <td><span class="badge">2.0.2</span></th>
+                        </tr>
 					</tbody>
 				</table>
 			</div>
