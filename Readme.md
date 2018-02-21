@@ -1,4 +1,4 @@
-# HomeManager
+# HomeManager
 
 There's no place like 127.0.0.1, right ? That's why it's important to keep your stuff done in a really quick and easy way !
 
@@ -10,6 +10,11 @@ As this project use Vagrant, you can easily and quickly start a fully functional
 All tools will be installed by default.
 
 If you want to install the project on your own server or environment, you just have to copy all files and then import database.sql in your database and, finally, adapt your config in `inc/settings.inc.php`.
+
+Default logins for admin are:
+
+* login: user@mail.com
+* password: password
 
 ## Features
 
@@ -72,3 +77,5 @@ As it's a fresh project, not all features are implemented for now.
 * fineUpload
 * AdminLTE
 * Gravatar
+* Vagrant
+* Many more :)
