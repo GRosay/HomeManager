@@ -4,6 +4,8 @@ if (isset($_GET['a'])) {
 	chdir("../");
 	require_once("./inc/prepend.inc.php");
 }
+if(!isset($_SESSION['bill_uid']))
+	$_SESSION['bill_uid'] = uniqid();
 if ($_SESSION['bill_uid_used'] != $_SESSION['bill_uid'])
 	$_SESSION['bill_uid'] = uniqid();
 
